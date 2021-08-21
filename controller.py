@@ -1,5 +1,0 @@
-
-import model
-
-
-model.prueba()
